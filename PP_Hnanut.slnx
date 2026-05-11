@@ -1,6 +1,8 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/Hnanut.Api/Hnanut.Api.csproj" />
+    <Project Path="src/Hnanut.Application/Hnanut.Application.csproj" />
     <Project Path="src/Hnanut.Domain/Hnanut.Domain.csproj" />
+    <Project Path="src/Hnanut.Infrastructure/Hnanut.Infrastructure.csproj" />
   </Folder>
 </Solution>
